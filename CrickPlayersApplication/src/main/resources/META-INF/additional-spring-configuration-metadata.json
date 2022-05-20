@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "eureka.client.service-url.defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.service-url.defaultZone'"
+  },
+  {
+    "name": "data.exception.msg",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.msg'"
+  },
+  {
+    "name": "data.exception.msg1",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.msg1'"
+  },
+  {
+    "name": "eureka.client.service-url.defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.service-url.defaultZone'"
+  },
+  {
+    "name": "eureka.client.service-url.defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.service-url.defaultZone'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "data.exception.msg",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.msg'"
+  }
+]}
